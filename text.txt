@@ -1,0 +1,12 @@
+Department : Name / user(Relation: One to Many).
+Create, Update, Search: Total of employess and sum of salary, Delete : cant delete Department have a relation.
+----
+User Fields : first name, last name, email, phone, password, salary, avater, manager(self relation), department_id.
+Features : Create, Update, Delete, Search.
+----
+Login Page :  (Email, Phone) + Password (complex password). regex Done.
+----
+Task : title, description, status, created_by, user_id.
+Manager : Show only the employee in his department , create, search.
+----------------
+1- Schema done
