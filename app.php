@@ -1,7 +1,7 @@
 <?php
 
 define("PATH", __DIR__ . "/");
-define("URL", "http://localhost/PHP_Task/");
+define("URL", "http://localhost/PHP-Task/");
 
 // DB Connection
 define("DB_SERVERNAME", "localhost");
